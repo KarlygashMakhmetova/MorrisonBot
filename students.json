@@ -1,0 +1,323 @@
+{
+    "297532664": {
+        "name": "Мира",
+        "coins": 147,
+        "transactions": [
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Активный ученик",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Д/З",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "removal",
+                "amount": -2,
+                "reason": "Ошибка",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "removal",
+                "amount": -1,
+                "reason": "ошибка",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "reward",
+                "amount": 45,
+                "reason": "дз",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "reward",
+                "amount": 34,
+                "reason": "дз",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "reward",
+                "amount": 10,
+                "reason": "Начало нового курса",
+                "teacher": "Неизвестный учитель"
+            }
+        ]
+    },
+    "831628356": {
+        "name": "Карл",
+        "coins": 5,
+        "transactions": [
+            {
+                "type": "reward",
+                "amount": 5,
+                "reason": "пп",
+                "teacher": "Неизвестный учитель"
+            }
+        ]
+    },
+    "989365434": {
+        "name": "Едиге Томирис",
+        "coins": 16,
+        "transactions": [
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Д/З",
+                "teacher": "Камила"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Присутствие на лекционном уроке",
+                "teacher": "Камила"
+            },
+            {
+                "type": "reward",
+                "amount": 2,
+                "reason": "Сдача дополнительного задания",
+                "teacher": "Камила"
+            },
+            {
+                "type": "reward",
+                "amount": 3,
+                "reason": "Прохождение модуля",
+                "teacher": "Камила"
+            },
+            {
+                "type": "reward",
+                "amount": 10,
+                "reason": "Начало нового курса",
+                "teacher": "Камила"
+            },
+            {
+                "type": "removal",
+                "amount": -10,
+                "reason": "просто",
+                "teacher": "Камила"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Д/З",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Вовремя зашел на урок",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Активный ученик",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Присутствие на лекционном уроке",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 25,
+                "reason": "За красивые глазки",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 150,
+                "reason": "Красивые глазки",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "purchase",
+                "item": "Уникальная роль",
+                "price": 60,
+                "category": "Косметика"
+            },
+            {
+                "type": "removal",
+                "amount": -10,
+                "reason": "Непослушная",
+                "teacher": "Омирзакова Аружан"
+            },
+            {
+                "type": "purchase",
+                "item": "Discord Nitro",
+                "price": 100,
+                "category": "Подписки"
+            }
+        ],
+        "purchases": [
+            "Уникальная роль",
+            "Discord Nitro"
+        ]
+    },
+    "1560172179": {
+        "name": "Жаксылык",
+        "coins": 303,
+        "transactions": [
+            {
+                "type": "reward",
+                "amount": 5,
+                "reason": "Дипломная работа",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Присутствие на лекционном уроке",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "reward",
+                "amount": 3,
+                "reason": "Прохождение модуля",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "reward",
+                "amount": 10,
+                "reason": "Начало нового курса",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "reward",
+                "amount": 100,
+                "reason": "дз",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "reward",
+                "amount": 2,
+                "reason": "ап",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "активное участие",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "purchase",
+                "item": "Discord Nitro",
+                "price": 100,
+                "category": "Подписки"
+            },
+            {
+                "type": "reward",
+                "amount": 100,
+                "reason": "отмена покупки",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "purchase",
+                "item": "Discord Nitro",
+                "price": 100,
+                "category": "Подписки"
+            },
+            {
+                "type": "reward",
+                "amount": 100,
+                "reason": "отмена",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "purchase",
+                "item": "Spotify Premium",
+                "price": 80,
+                "category": "Подписки"
+            },
+            {
+                "type": "reward",
+                "amount": 500,
+                "reason": "п",
+                "teacher": "Неизвестный учитель"
+            },
+            {
+                "type": "purchase",
+                "item": "Telegram Premium на месяц",
+                "price": 80,
+                "category": "Подписки"
+            },
+            {
+                "type": "purchase",
+                "item": "Telegram Premium на месяц",
+                "price": 80,
+                "category": "Подписки"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Д/З",
+                "teacher": "Карлыгаш"
+            },
+            {
+                "type": "purchase",
+                "item": "Telegram Premium на месяц",
+                "price": 80,
+                "category": "Подписки"
+            }
+        ],
+        "purchases": [
+            "Discord Nitro",
+            "Discord Nitro",
+            "Spotify Premium",
+            "Telegram Premium на месяц",
+            "Telegram Premium на месяц",
+            "Telegram Premium на месяц"
+        ]
+    },
+    "1098910604": {
+        "name": "Акниет Балгаракызы",
+        "coins": 53,
+        "transactions": [
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Д/З",
+                "teacher": "Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Вовремя зашел на урок",
+                "teacher": "Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 1,
+                "reason": "Присутствие на лекционном уроке",
+                "teacher": "Аружан"
+            },
+            {
+                "type": "reward",
+                "amount": 120,
+                "reason": "За май",
+                "teacher": "Аружан"
+            },
+            {
+                "type": "removal",
+                "amount": -10,
+                "reason": "По ошибке",
+                "teacher": "Аружан"
+            },
+            {
+                "type": "purchase",
+                "item": "Уникальная роль",
+                "price": 60,
+                "category": "Косметика"
+            }
+        ],
+        "purchases": [
+            "Уникальная роль"
+        ]
+    }
+}
